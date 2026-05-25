@@ -21,18 +21,5 @@
 
     <h2>Demo video</h2>
     <iframe src="//player.bilibili.com/player.html?bvid=BV15bLH6oEym&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-    <div class="comment-section">
-        <h2>Comments section</h2>
-        <!-- Utterances 评论区 -->
-        <script src="https://utteranc.es/client.js"
-        repo="taylor-l705857/taylor-l705857.github.io"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-    </div>
-
 </body>
 </html>
