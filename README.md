@@ -26,12 +26,12 @@
         <h2>Comments section</h2>
         <!-- Utterances 评论区 -->
         <script src="https://utteranc.es/client.js"
-                repo="taylor-l705857/taylor-l705857.github.io"
-                issue-term="pathname"
-                theme="github-light"
-                crossorigin="anonymous"
-                async>
-        </script>
+        repo="taylor-l705857/taylor-l705857.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
     </div>
 
 </body>
