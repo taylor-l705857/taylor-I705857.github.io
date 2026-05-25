@@ -17,7 +17,7 @@
 
     <h1>PBI subject: Mental health</h1>
     <div class="author"><strong>Author:</strong> Alice, Lynette, Allen</div>
-    <div class="summary"><strong>Summary:</strong> 这里是论文摘要内容......</div>
+    <div class="summary"><strong>Summary:</strong> 这里是论文摘要内容。......</div>
 
     <h2>Demo video</h2>
     <iframe src="//player.bilibili.com/player.html?bvid=BV15bLH6oEym&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
