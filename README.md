@@ -1,4 +1,4 @@
-[indedx.html.txt](https://github.com/user-attachments/files/28214899/indedx.html.txt)
+[indedx.html.txt](https://github.com/user-attachments/files/28215629/indedx.html.txt)
 <!DOCTYPE html>
 <html>
 <head>
@@ -27,7 +27,13 @@
 </iframe>
     <div class="comment">
         <h2>Comments section</h2>
-
+<script src="https://utteranc.es/client.js"
+        repo="taylor-I705857/taylor-I705857.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
     </div>
 </body>
 </html>
