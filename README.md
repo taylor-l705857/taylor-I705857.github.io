@@ -64,8 +64,6 @@
 
     <div class="comment-section">
         <h2>Comments section</h2>
-        <!-- Utterances 评论区 -->
-        <h2>Comments section</h2>
 <script src="https://utteranc.es/client.js"
     repo="taylor-l705857/taylor-l705857.github.io"
     issue-term="pathname"
