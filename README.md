@@ -1,4 +1,4 @@
-[indedx.html.txt](https://github.com/user-attachments/files/28214821/indedx.html.txt)
+[indedx.html.txt](https://github.com/user-attachments/files/28214899/indedx.html.txt)
 <!DOCTYPE html>
 <html>
 <head>
@@ -11,8 +11,8 @@
     </style>
 </head>
 <body>
-    <h1>PBI subject：这里写你的论文题目</h1>
-    <p>Author：Allen,</p>
+    <h1>PBI subject：Mental health</h1>
+    <p>Author：Alice,Lynette,Allen</p>
     <p>Summary：这里是论文摘要内容......</p>
 
     <h2>Demo video</h2>
