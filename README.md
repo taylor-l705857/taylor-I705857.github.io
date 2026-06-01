@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -41,6 +42,9 @@
             border-radius: 5px;
             margin: 20px 0;
         }
+        .summary p {
+            margin: 10px 0;
+        }
         .video-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
@@ -66,6 +70,7 @@
             background: #f9f9f9;
             color: #333;
             text-align: center;
+            font-weight: bold;
         }
         @media (max-width: 800px) {
             .video-grid {
@@ -83,52 +88,55 @@
     <div class="author">
         <strong>Author:</strong> Alice, Lynette, Allen
     </div>
-    <!-- 添加小组名：Rhode Island -->
     <div class="group">
         <strong>Group:</strong> Rhode Island
     </div>
 
+    <!-- Summary 双语说明 -->
     <div class="summary">
-        <strong>Summary:</strong> 这里是论文摘要内容......
+        <strong>Summary:</strong>
+        <p>心理健康是很重要的事情，为帮助鉴别，我们提供以下6条视频给予帮助，它们分别是：</p >
+        <p><em>Mental health is very important. To help with identification, we provide the following six videos to assist you, which are:</em></p >
     </div>
 
     <h2>Demo Videos</h2>
     <div class="video-grid">
-        <!-- 视频1：BV1Ts411t791 -->
+        <!-- 视频1：抑郁症 -->
         <div class="video-item">
             <iframe src="//player.bilibili.com/player.html?bvid=BV1Ts411t791&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-            <div class="video-caption">视频1：心理健康讲座</div>
+            <div class="video-caption">视频1：抑郁症 (Depression)</div>
         </div>
 
-        <!-- 视频2：BV1fk4y1y7eS -->
+        <!-- 视频2：精神分裂症 -->
         <div class="video-item">
             <iframe src="//player.bilibili.com/player.html?bvid=BV1fk4y1y7eS&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-            <div class="video-caption">视频2</div>
+            <div class="video-caption">视频2：精神分裂症 (Schizophrenia)</div>
         </div>
 
-        <!-- 视频3：BV1gx41187kE -->
+        <!-- 视频3：抑郁症 -->
         <div class="video-item">
             <iframe src="//player.bilibili.com/player.html?bvid=BV1gx41187kE&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-            <div class="video-caption">视频3</div>
+            <div class="video-caption">视频3：抑郁症 (Depression)</div>
         </div>
 
-        <!-- 视频4：BV1Vy4y157uj -->
+        <!-- 视频4：自杀预防与危机干预 -->
         <div class="video-item">
             <iframe src="//player.bilibili.com/player.html?bvid=BV1Vy4y157uj&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-            <div class="video-caption">视频4</div>
+            <div class="video-caption">视频4：自杀预防与危机干预 (Suicide Prevention & Crisis Intervention)</div>
         </div>
 
-        <!-- 视频5：BV1rupVe9EKL -->
+        <!-- 视频5：焦虑症 -->
         <div class="video-item">
             <iframe src="//player.bilibili.com/player.html?bvid=BV1rupVe9EKL&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-            <div class="video-caption">视频5</div>
+            <div class="video-caption">视频5：焦虑症 (Anxiety Disorder)</div>
         </div>
 
-        <!-- 视频6：BV1PfSGBKErN -->
+        <!-- 视频6：所有精神障碍概述 -->
         <div class="video-item">
             <iframe src="//player.bilibili.com/player.html?bvid=BV1PfSGBKErN&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-            <div class="video-caption">视频6</div>
+            <div class="video-caption">视频6：精神障碍总览 (Overview of Mental Disorders)</div>
         </div>
+    </div>
 
-        <!-- 视频7：BV1GP4y1E7EK -->
-       
+</body>
+</html>
