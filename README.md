@@ -28,9 +28,12 @@
             padding-bottom: 15px;
             margin-bottom: 20px;
         }
-        .author {
+        .author, .group {
             color: #666;
-            margin-bottom: 20px;
+            margin-bottom: 10px;
+        }
+        .group {
+            font-style: italic;
         }
         .summary {
             background-color: #f5f5f5;
@@ -80,6 +83,10 @@
     <div class="author">
         <strong>Author:</strong> Alice, Lynette, Allen
     </div>
+    <!-- 添加小组名：Rhode Island -->
+    <div class="group">
+        <strong>Group:</strong> Rhode Island
+    </div>
 
     <div class="summary">
         <strong>Summary:</strong> 这里是论文摘要内容......
@@ -87,10 +94,7 @@
 
     <h2>Demo Videos</h2>
     <div class="video-grid">
-        <!-- 以下是所有B站视频，按你提供的顺序排列 -->
-        <!-- 如果需要删除某个视频，直接删除对应的 .video-item 块即可 -->
-
-        <!-- 视频1：BV1Ts411t791 （之前保留的） -->
+        <!-- 视频1：BV1Ts411t791 -->
         <div class="video-item">
             <iframe src="//player.bilibili.com/player.html?bvid=BV1Ts411t791&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
             <div class="video-caption">视频1：心理健康讲座</div>
@@ -127,5 +131,4 @@
         </div>
 
         <!-- 视频7：BV1GP4y1E7EK -->
-        <div class="video-item">
-            <iframe src="//player.bilibili.com/player.h
+       
