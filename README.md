@@ -144,9 +144,8 @@
 
     <!-- ========== 页脚联系方式（请修改为你的实际联系方式） ========== -->
     <div class="footer">
-        <p><strong>Contact Us</strong></p>
+        <p><strong>Contact us if you want</strong></p>
         <p>Email: <a href="mailto:your-email@example.com">jhgf741@163.com</a></p>
-        <p>© 2025 Rhode Island Group | Mental Health Project</p>
     </div>
     <!-- ============================================================= -->
 
