@@ -102,7 +102,10 @@
     <div class="en-subtitle">Caring for mental health and growing together with children</div>
 
     <div class="author">
-        <strong>Author:</strong> Alice LING, Lynette SONG, Allen LI
+        <strong>Author:</strong> 
+        Alice LING, 
+        Lynette SONG, 
+        Allen LI
     </div>
     <div class="group">
         <strong>Group:</strong> Rhode Island
