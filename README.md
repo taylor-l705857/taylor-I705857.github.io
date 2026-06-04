@@ -1,9 +1,8 @@
-
 <!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Mental Health - 关爱心理健康</title>
+    <title>Mental Health</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -72,7 +71,6 @@
             text-align: center;
             font-weight: bold;
         }
-        /* 页脚联系方式样式 */
         .footer {
             margin-top: 50px;
             padding-top: 20px;
@@ -102,22 +100,17 @@
     <div class="en-subtitle">Caring for mental health and growing together with children</div>
 
     <div class="author">
-        <strong>Author:</strong> 
-        Alice LING, 
-        Lynette SONG, 
-        Allen LI
+        <strong>Author:</strong> Alice, Lynette, Allen
     </div>
     <div class="group">
         <strong>Group:</strong> Rhode Island
     </div>
 
     <div class="summary">
-        <strong>Summary:</strong>
         <p>心理健康是很重要的事情，为帮助鉴别，我们提供以下6条视频给予帮助，它们分别是：</p>
         <p><em>Mental health is very important. To help with identification, we provide the following six videos to assist you, which are:</em></p>
     </div>
 
-    <h2>Demo Videos</h2>
     <div class="video-grid">
         <div class="video-item">
             <iframe src="//player.bilibili.com/player.html?bvid=BV1Ts411t791&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
@@ -145,12 +138,11 @@
         </div>
     </div>
 
-    <!-- ========== 页脚联系方式（请修改为你的实际联系方式） ========== -->
     <div class="footer">
-        <p><strong>Contact us if you want</strong></p>
-        <p>Email: <a href="mailto:your-email@example.com">jhgf741@163.com</a></p>
+        <p><strong>Contact Us</strong></p>
+        <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+        <p>Rhode Island Group | Mental Health Project</p>
     </div>
-    <!-- ============================================================= -->
 
 </body>
 </html>
