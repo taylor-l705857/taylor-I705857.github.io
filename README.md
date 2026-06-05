@@ -32,6 +32,15 @@
             color: #666;
             margin-bottom: 10px;
         }
+        /* 新增：让作者列表每个名字一行 */
+        .author-list {
+            list-style: none;
+            padding-left: 0;
+            margin-top: 5px;
+        }
+        .author-list li {
+            margin-bottom: 5px;
+        }
         .group {
             font-style: italic;
         }
@@ -99,11 +108,19 @@
     <div class="subtitle">关爱心理健康 与孩子共成长</div>
     <div class="en-subtitle">Caring for mental health and growing together with children</div>
 
+    <!-- 作者：每个名字一行 -->
     <div class="author">
-        <strong>Author:</strong> Alice, Lynette, Allen
+        <strong>Author:</strong>
+        <ul class="author-list">
+            <li>Alice LING</li>
+            <li>Lynette SONG</li>
+            <li>Allen LI</li>
+        </ul>
     </div>
+
+    <!-- 小组名单独一行 -->
     <div class="group">
-        <strong>Group:</strong> Rhode Island
+        <strong>Group:</strong> Rhodes Island
     </div>
 
     <div class="summary">
