@@ -125,7 +125,7 @@
     <div class="author">
         <strong>Author:</strong>
         <ul class="author-list">
-            <li>Alice LING</li>
+            <li>Alice LIN</li>
             <li>Lynette SONG</li>
             <li>Allen LI</li>
         </ul>
