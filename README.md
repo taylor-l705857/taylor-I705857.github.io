@@ -28,6 +28,17 @@
             padding-bottom: 15px;
             margin-bottom: 20px;
         }
+        /* 新加入的图片样式 */
+        .header-image {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .header-image img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
         .author, .group {
             color: #666;
             margin-bottom: 10px;
@@ -122,6 +133,11 @@
     <div class="subtitle">关爱心理健康 与孩子共成长</div>
     <div class="en-subtitle">Caring for mental health and growing together with children</div>
 
+    <!-- 这里是新添加的图片位置 -->
+    <div class="header-image">
+        <img src="2600.jpg_wh860.jpg" alt="Mental Health Banner">
+    </div>
+
     <div class="author">
         <strong>Author:</strong>
         <ul class="author-list">
@@ -131,7 +147,7 @@
         </ul>
     </div>
     <div class="group">
-        <strong>Group:</strong> Rhode Island
+        <strong>Group:</strong> Rhodes Island
     </div>
 
     <div class="summary">
@@ -176,7 +192,7 @@
             <div class="video-caption">视频4：自杀预防与危机干预 (Suicide Prevention & Crisis Intervention)</div>
             <div class="video-description">
                 <p>你想过自杀吗？如果你能坚持到现在，你一定拥有很大的勇气，想必你的内心也已挣扎了无数次。选择自杀并不是你的承受里差，而是你所面对的痛苦已然超出了你的承受能力，就算一个人承受能力再好，也会有崩溃的时候。如果有人责怪你，请不要在意他，他们只是在隔岸观火，他们无法理解。请不要小看自己，我们都拥有极高的承受能力，你已经做的很好了，请等一会，一个月，一个星期，哪怕一天，仔细想想为什么你会如此痛苦，请活下去。</p>
-                <p class="en">Have you ever thought about suicide? If you have made it this far, you must have a great deal of courage, and surely your heart has struggled countless times. Choosing suicide is not a failure of your endurance, but rather the pain you are facing has already exceeded your capacity to bear it. No matter how strong a person's tolerance is, there will be times of collapse. If someone blames you, please don't mind them; they are just spectators from the shore, incapable of understanding. Please do not underestimate yourself. We all have a tremendous capacity to endure. You have already done very well. Please wait a while, a month, a week, even just a day, and carefully think about why you are in such pain. Please live on.</p>
+                <p class="en">Have you ever thought about suicide? If you have made it this far, you must have a great deal of courage, and surely your heart has struggled countless times. Choosing suicide is not a failure of your endurance, but rather the pain you are facing has already exceeded your capacity to bear it. No matter how strong a person's tolerance is, there will be times of collapse. If someone blames you, please don’t mind them; they are just spectators from the shore, incapable of understanding. Please do not underestimate yourself. We all have a tremendous capacity to endure. You have already done very well. Please wait a while, a month, a week, even just a day, and carefully think about why you are in such pain. Please live on.</p>
             </div>
         </div>
 
@@ -227,7 +243,6 @@
 
     <div class="footer">
         <p><strong>Contact us if you want</strong></p>
-        <!-- 邮箱已更新为 jhgf741@163.com -->
         <p>Email: <a href="mailto:jhgf741@163.com">jhgf741@163.com</a></p>
     </div>
 
